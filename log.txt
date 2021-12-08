@@ -3,3 +3,5 @@ Work time (PHT):
 Started: 5:01 PM
 
 Setup react app: 5:21 PM
+
+Added TypeScript to app and added form with form validation: 9:50 PM

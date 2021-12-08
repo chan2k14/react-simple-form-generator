@@ -1,0 +1,9 @@
+.form_input {
+    width: 40vw;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.error_message {
+    color: red;
+}
